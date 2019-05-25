@@ -3,5 +3,7 @@ This repository contains code for the paper titled "Reducing-Gender-Bias-in-Word
 
 <img src="results.png">
 
-Team:
-Yusu Qian, Urwa Muaz, Ben Zhang and Jae Won Hyun
+### Authors:
+Yusu Qian*, Urwa Muaz*, Ben Zhang and Jae Won Hyun
+
+'*' denotes equal contribution
